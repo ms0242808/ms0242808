@@ -6,10 +6,9 @@
 <!--   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-YourEmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> -->
 <!--   <a href="https://yourblog.com"><img src="https://img.shields.io/badge/Blog-YourBlog-FF5722?style=for-the-badge&logo=rss" alt="Blog"></a> -->
 <!--   <img src="https://komarev.com/ghpvc/?username=ms0242808&style=for-the-badge" alt="Profile Views"> --> 
-<!-- </p> -->
+<!-- </p> <a href="https://twitter.com/ms0242808"><img src="https://img.shields.io/badge/@ms0242808-000000?style=for-the-badge&logo=x" alt="X"></a> -->
 ### 🔗 Connect with Me
 <p align="center">
-  <a href="https://twitter.com/ms0242808"><img src="https://img.shields.io/badge/@ms0242808-000000?style=for-the-badge&logo=x" alt="X"></a>
   <a href="mailto:ms0242808@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -33,7 +32,6 @@
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
 </p>
  <p align="center">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"> 
   <img src="https://img.shields.io/badge/-Graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="Graphql">
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
